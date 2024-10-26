@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+   
+}
+.container .form{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 1000px;
+    background-color: rgba(124, 124, 124, 0.393);
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 22px;
+    
+}
+.form .information{
+    background-color: rgb(255, 255, 255);
+    width: 98%;
+    height: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    border-radius: 5px;
+    vertical-align: top;
+    text-align: center;
+}
+.information h1{
+    padding-top: 50px;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+form .input1{
+    margin-top: 10px;
+width: 90%;
+height: 100px;
+border-radius: 10px;
+border: 1px solid rgba(128, 128, 128, 0.483);
+font-size: 30px;
+
+}
+form{
+    position: relative; 
+}
+.form .label1{
+    position: absolute;
+    top: 15px;
+    left: 80px;
+    font-size: 13px;
+}
+form .inputemail{
+    width: 43%;
+    height: 100px;
+    border-radius: 10px;
+border: 1px solid rgba(128, 128, 128, 0.483);
+font-size: 30px;
+float: left;
+margin: 30px;
+margin-left:55px;
+}
+form .inputsdt{
+    width: 42%;
+    height: 100px;
+    border-radius: 10px;
+border: 1px solid rgba(128, 128, 128, 0.483);
+font-size: 30px;
+float: left;
+margin: 30px;
+
+}
+.form .labelemail{
+    position: absolute;
+    top: 150px;
+    left: 80px;
+    font-size: 13px;
+}
+.form .labelsdt{
+    position: absolute;
+    top: 150px;
+    left: 620px;
+    font-size: 13px;
+}
+form .inputser{
+    margin-top: 10px;
+width: 90%;
+height: 100px;
+border-radius: 10px;
+border: 1px solid rgba(128, 128, 128, 0.483);
+font-size: 30px;
+
+}
+.form .labelser{
+    position: absolute;
+    top: 290px;
+    left: 80px;
+    font-size: 13px;
+}
+.form textarea{
+    margin-top: 30px;
+    width: 90%;
+    height: 200px;
+    border-radius: 10px;
+  background-color: white;
+    font-size: 30px;
+    border: 1px solid rgba(128, 128, 128, 0.383);
+}
+.form .labelarea{
+    position: absolute;
+    top:420px;
+    left: 80px;
+    font-size: 13px;
+    text-align: center;
+    resize: none;
+    
+    
+}
+.form .button{
+    margin-top: 30px;
+    width: 90%;
+    height: 70px;
+    border-radius: 40px;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    border: 1px solid rgba(128, 128, 128, 0.383);
+    color: white;
+}
